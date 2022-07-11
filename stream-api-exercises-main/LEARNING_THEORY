@@ -1,0 +1,23 @@
+
+The design of stream api is in line with Functional programming ,
+it is a coding style to implement program logic by composing
+functions and execute them in a data flow.
+
+The general concept is Java stream api emits data elements and passes through a list of operations
+such as data transformation , filtering and sorting.
+
+The whole process is ended by terminal operation which gathers output.
+
+Microservice architecture is a form of service-oriented architecture (SOA)
+whereby software applications are built as a collection of loosely coupled services,
+as opposed to one monolithic software application.
+
+Micro service architecture helps in development , scalability and continous delivery of their services
+
+more efficient debuggin
+Accelerated software delivery
+Easier to understand the code base
+Scalability
+Fault tolerance
+Deployment
+
